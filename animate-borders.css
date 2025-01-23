@@ -54,7 +54,7 @@ body{
 
 .object:hover::after, .object:hover::before{
     background: conic-gradient(from var(--angle), transparent 70%, blue);
-    animation: 6s spin linear infinite;
+    animation: 4s spin linear infinite;
     opacity: 1;
     height: 100%;
     width: 100%;
